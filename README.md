@@ -11,10 +11,10 @@ This repository is for Assignment 1 to practice Git and GitHub fundamentals, inc
 * GitHub
 
 ## Code 
+```python
 print("Hello Midterms :( )")
+```
 ## link 
 [text](https://lolesports.com/) 
 ## picture 
-![Project Banner](./project-banner.svg) Adding a new line for selective staging
-Change to README
-Change to README
+![Project Banner](./project-banner.svg)   
