@@ -15,4 +15,4 @@ print("Hello Midterms :( )")
 ## link 
 [text](https://lolesports.com/) 
 ## picture 
-![Project Banner](./project-banner.svg) 
+![Project Banner](./project-banner.svg) Adding a new line for selective staging
