@@ -15,6 +15,6 @@ This repository is for Assignment 1 to practice Git and GitHub fundamentals, inc
 print("Hello Midterms :( )")
 ```
 ## link 
-[text](https://lolesports.com/) 
+[https://lolesports.com/](https://lolesports.com/)
 ## picture 
 ![Project Banner](./project-banner.svg)   
